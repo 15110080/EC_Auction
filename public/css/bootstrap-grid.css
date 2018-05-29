@@ -158,7 +158,7 @@ html {
 .col-9 {
   -ms-flex: 0 0 75%;
       flex: 0 0 75%;
-  max-width: 100%;
+  max-width: 75%;
 }
 
 .col-10 {

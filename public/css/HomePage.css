@@ -25,7 +25,7 @@ header{
 	margin:auto;
 }
 header a{
-    margin: 0 10px 0 10px;
+    margin: 0 20px 0 20px;
 }
 div.row2{
     float: left;
@@ -34,9 +34,7 @@ div.row2{
 
 .bid{
     text-align: center;
-    width: 17%;
-    margin: auto; 
-    margin-right: 20px;
+    margin-left: 150px
 }
 div.bid a{
     
@@ -55,7 +53,7 @@ div.bid a{
 
 #between {
     min-height: 700px;
-   
+    border-top :2px solid #c5b7b7;
 }
 .border1{
   border: 1px solid #bda6a6;
@@ -85,7 +83,4 @@ div.bid a{
 }
 .frame{
     background-color: rgb(201, 195, 195);
-}
-#h1{
-  color:red;
 }

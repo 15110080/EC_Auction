@@ -103,34 +103,5 @@ Route::post('/updateDB',[
     'uses'=>'PageController@postupdateDB'
 ]);
 
-// Auth::routes();
 
-// Route::get('/home', 'HomeController@index')->name('home');
-
-// // <==============================>
-// // 		ExampleController
-Route::get('/dangnhap1',[
-    'as'=>'dangnhap1',
-    'uses'=>'ExampleController@getDangnhap'
-]);
-Route::post('/logined1',[
-    'as'=>'logined1',
-    'uses'=>'ExampleController@logined1'
-]);
-
-Route::post('/logined2',[
-    'as'=>'logined2',
-    'uses'=>'ExampleController@logined2'
-]);
-// Route::get('/dangnhap1',[
-//     'as'=>'logined',
-//     'uses'=>'LoginController@getlogin'
-// ]);
-
-// Route::get('/verify',function () {
-//     return "Form was submited !";
-// });
-// // Route::post('/verify',function () {
-// //     return "Form was POST_ed !";
-// // });
 
