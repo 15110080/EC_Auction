@@ -2,7 +2,7 @@ APP_NAME=Laravel
 APP_ENV=local
 APP_KEY=base64:VIc7lHUKDcctjxDt29XmjxWBRDhY+aiJWFacysQ4AIw=
 APP_DEBUG=true
-APP_URL=http://localhost
+APP_URL=http://auctionec2.herokuapp.com
 
 
 LOG_CHANNEL=stack
